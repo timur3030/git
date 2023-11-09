@@ -10,3 +10,4 @@ btn.addEventListener("click", () => {
     h1.textContent = git;
   }
 });
+console.log("Test");
